@@ -1,0 +1,12 @@
+{
+    "FileUrls": [
+        "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/d/uSWudYpkwZatiA"
+    ],
+    "OutputDirectoryName": "Foam",
+    "LaunchExecutable": "Foam.exe",
+    "DownloadRetryCount": 3,
+    "LogFilePath": "bootstrapper.log",
+    "DeleteArchivesAfterExtraction": true,
+    "DownloadTimeoutSeconds": 60,
+    "Language": "ru"
+}
